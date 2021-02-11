@@ -1,0 +1,13 @@
+C:\Projetos\Pessoais\DesignPattern\polymorphism\bin\Debug\netcoreapp3.1\Polymorphism.exe
+C:\Projetos\Pessoais\DesignPattern\polymorphism\bin\Debug\netcoreapp3.1\Polymorphism.deps.json
+C:\Projetos\Pessoais\DesignPattern\polymorphism\bin\Debug\netcoreapp3.1\Polymorphism.runtimeconfig.json
+C:\Projetos\Pessoais\DesignPattern\polymorphism\bin\Debug\netcoreapp3.1\Polymorphism.runtimeconfig.dev.json
+C:\Projetos\Pessoais\DesignPattern\polymorphism\bin\Debug\netcoreapp3.1\Polymorphism.dll
+C:\Projetos\Pessoais\DesignPattern\polymorphism\bin\Debug\netcoreapp3.1\Polymorphism.pdb
+C:\Projetos\Pessoais\DesignPattern\polymorphism\obj\Debug\netcoreapp3.1\Polymorphism.csprojAssemblyReference.cache
+C:\Projetos\Pessoais\DesignPattern\polymorphism\obj\Debug\netcoreapp3.1\Polymorphism.AssemblyInfoInputs.cache
+C:\Projetos\Pessoais\DesignPattern\polymorphism\obj\Debug\netcoreapp3.1\Polymorphism.AssemblyInfo.cs
+C:\Projetos\Pessoais\DesignPattern\polymorphism\obj\Debug\netcoreapp3.1\Polymorphism.csproj.CoreCompileInputs.cache
+C:\Projetos\Pessoais\DesignPattern\polymorphism\obj\Debug\netcoreapp3.1\Polymorphism.dll
+C:\Projetos\Pessoais\DesignPattern\polymorphism\obj\Debug\netcoreapp3.1\Polymorphism.pdb
+C:\Projetos\Pessoais\DesignPattern\polymorphism\obj\Debug\netcoreapp3.1\Polymorphism.genruntimeconfig.cache

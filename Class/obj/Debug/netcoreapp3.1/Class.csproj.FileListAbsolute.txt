@@ -1,0 +1,12 @@
+C:\Projetos\Pessoais\DesignPattern\Class\bin\Debug\netcoreapp3.1\Class.exe
+C:\Projetos\Pessoais\DesignPattern\Class\bin\Debug\netcoreapp3.1\Class.deps.json
+C:\Projetos\Pessoais\DesignPattern\Class\bin\Debug\netcoreapp3.1\Class.runtimeconfig.json
+C:\Projetos\Pessoais\DesignPattern\Class\bin\Debug\netcoreapp3.1\Class.runtimeconfig.dev.json
+C:\Projetos\Pessoais\DesignPattern\Class\bin\Debug\netcoreapp3.1\Class.dll
+C:\Projetos\Pessoais\DesignPattern\Class\bin\Debug\netcoreapp3.1\Class.pdb
+C:\Projetos\Pessoais\DesignPattern\Class\obj\Debug\netcoreapp3.1\Class.AssemblyInfoInputs.cache
+C:\Projetos\Pessoais\DesignPattern\Class\obj\Debug\netcoreapp3.1\Class.AssemblyInfo.cs
+C:\Projetos\Pessoais\DesignPattern\Class\obj\Debug\netcoreapp3.1\Class.csproj.CoreCompileInputs.cache
+C:\Projetos\Pessoais\DesignPattern\Class\obj\Debug\netcoreapp3.1\Class.dll
+C:\Projetos\Pessoais\DesignPattern\Class\obj\Debug\netcoreapp3.1\Class.pdb
+C:\Projetos\Pessoais\DesignPattern\Class\obj\Debug\netcoreapp3.1\Class.genruntimeconfig.cache
