@@ -1,0 +1,13 @@
+C:\Projetos\Pessoais\DesignPattern\InformationHiding\bin\Debug\netcoreapp3.1\InformationHiding.exe
+C:\Projetos\Pessoais\DesignPattern\InformationHiding\bin\Debug\netcoreapp3.1\InformationHiding.deps.json
+C:\Projetos\Pessoais\DesignPattern\InformationHiding\bin\Debug\netcoreapp3.1\InformationHiding.runtimeconfig.json
+C:\Projetos\Pessoais\DesignPattern\InformationHiding\bin\Debug\netcoreapp3.1\InformationHiding.runtimeconfig.dev.json
+C:\Projetos\Pessoais\DesignPattern\InformationHiding\bin\Debug\netcoreapp3.1\InformationHiding.dll
+C:\Projetos\Pessoais\DesignPattern\InformationHiding\bin\Debug\netcoreapp3.1\InformationHiding.pdb
+C:\Projetos\Pessoais\DesignPattern\InformationHiding\obj\Debug\netcoreapp3.1\InformationHiding.csprojAssemblyReference.cache
+C:\Projetos\Pessoais\DesignPattern\InformationHiding\obj\Debug\netcoreapp3.1\InformationHiding.AssemblyInfoInputs.cache
+C:\Projetos\Pessoais\DesignPattern\InformationHiding\obj\Debug\netcoreapp3.1\InformationHiding.AssemblyInfo.cs
+C:\Projetos\Pessoais\DesignPattern\InformationHiding\obj\Debug\netcoreapp3.1\InformationHiding.csproj.CoreCompileInputs.cache
+C:\Projetos\Pessoais\DesignPattern\InformationHiding\obj\Debug\netcoreapp3.1\InformationHiding.dll
+C:\Projetos\Pessoais\DesignPattern\InformationHiding\obj\Debug\netcoreapp3.1\InformationHiding.pdb
+C:\Projetos\Pessoais\DesignPattern\InformationHiding\obj\Debug\netcoreapp3.1\InformationHiding.genruntimeconfig.cache

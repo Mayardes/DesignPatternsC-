@@ -3,11 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30907.101
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Class", "Class\Class.csproj", "{B36A08D5-13AA-4197-BDBB-19991BFFFB4E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Class", "Class\Class.csproj", "{B36A08D5-13AA-4197-BDBB-19991BFFFB4E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inheritance", "Inheritance\Inheritance.csproj", "{1CF4A5E0-1477-4D08-8BE0-FBD50B4863D7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Inheritance", "Inheritance\Inheritance.csproj", "{1CF4A5E0-1477-4D08-8BE0-FBD50B4863D7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Polymorphism", "polymorphism\Polymorphism.csproj", "{0D2CC951-8227-440A-A8D5-A53CD5CCE7FC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Polymorphism", "polymorphism\Polymorphism.csproj", "{0D2CC951-8227-440A-A8D5-A53CD5CCE7FC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InformationHiding", "InformationHiding\InformationHiding.csproj", "{808DF94C-0EDA-42A4-93C7-2DC8774F0BD0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{0D2CC951-8227-440A-A8D5-A53CD5CCE7FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0D2CC951-8227-440A-A8D5-A53CD5CCE7FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0D2CC951-8227-440A-A8D5-A53CD5CCE7FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{808DF94C-0EDA-42A4-93C7-2DC8774F0BD0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{808DF94C-0EDA-42A4-93C7-2DC8774F0BD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{808DF94C-0EDA-42A4-93C7-2DC8774F0BD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{808DF94C-0EDA-42A4-93C7-2DC8774F0BD0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
