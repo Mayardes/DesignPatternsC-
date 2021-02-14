@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projetos\\Pessoais\\DesignPattern\\polymorphism\\Polymorphism.csproj": {}
+    "C:\\Projetos\\Pessoais\\DesignPatternsC-\\polymorphism\\Polymorphism.csproj": {}
   },
   "projects": {
-    "C:\\Projetos\\Pessoais\\DesignPattern\\polymorphism\\Polymorphism.csproj": {
+    "C:\\Projetos\\Pessoais\\DesignPatternsC-\\polymorphism\\Polymorphism.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projetos\\Pessoais\\DesignPattern\\polymorphism\\Polymorphism.csproj",
+        "projectUniqueName": "C:\\Projetos\\Pessoais\\DesignPatternsC-\\polymorphism\\Polymorphism.csproj",
         "projectName": "Polymorphism",
-        "projectPath": "C:\\Projetos\\Pessoais\\DesignPattern\\polymorphism\\Polymorphism.csproj",
+        "projectPath": "C:\\Projetos\\Pessoais\\DesignPatternsC-\\polymorphism\\Polymorphism.csproj",
         "packagesPath": "C:\\Users\\Mayardes Oliveira\\.nuget\\packages\\",
-        "outputPath": "C:\\Projetos\\Pessoais\\DesignPattern\\polymorphism\\obj\\",
+        "outputPath": "C:\\Projetos\\Pessoais\\DesignPatternsC-\\polymorphism\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Mayardes Oliveira\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -54,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
         }
       }
     }

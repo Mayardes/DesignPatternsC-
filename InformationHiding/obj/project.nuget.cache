@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "MwdSbH7GTtwYoTnXtPl/J2mrBa95wKqtD8/BfdZnMiX2JzP7B7sdMEa8K+DJ1u7xbrg3yRzrK0fxcphU2kVwPw==",
+  "dgSpecHash": "9m8PyZs71DoH9Wck37VN8OCxJAZpGj3K+hmwXH8sY/qbcfFc0bvnfPK9oQA3PDXaIepFnInB1hjrIPlGUGsJ2Q==",
   "success": true,
-  "projectFilePath": "C:\\Projetos\\Pessoais\\DesignPattern\\InformationHiding\\InformationHiding.csproj",
+  "projectFilePath": "C:\\Projetos\\Pessoais\\DesignPatternsC-\\InformationHiding\\InformationHiding.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

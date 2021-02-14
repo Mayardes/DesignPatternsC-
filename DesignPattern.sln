@@ -9,7 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Inheritance", "Inheritance\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Polymorphism", "polymorphism\Polymorphism.csproj", "{0D2CC951-8227-440A-A8D5-A53CD5CCE7FC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InformationHiding", "InformationHiding\InformationHiding.csproj", "{808DF94C-0EDA-42A4-93C7-2DC8774F0BD0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InformationHiding", "InformationHiding\InformationHiding.csproj", "{808DF94C-0EDA-42A4-93C7-2DC8774F0BD0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbstractClass", "AbstractClass\AbstractClass.csproj", "{1CECD098-B117-48A5-B3CE-D8CE3065C2E3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{808DF94C-0EDA-42A4-93C7-2DC8774F0BD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{808DF94C-0EDA-42A4-93C7-2DC8774F0BD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{808DF94C-0EDA-42A4-93C7-2DC8774F0BD0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1CECD098-B117-48A5-B3CE-D8CE3065C2E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1CECD098-B117-48A5-B3CE-D8CE3065C2E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1CECD098-B117-48A5-B3CE-D8CE3065C2E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1CECD098-B117-48A5-B3CE-D8CE3065C2E3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

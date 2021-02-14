@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projetos\\Pessoais\\DesignPattern\\InformationHiding\\InformationHiding.csproj": {}
+    "C:\\Projetos\\Pessoais\\DesignPatternsC-\\InformationHiding\\InformationHiding.csproj": {}
   },
   "projects": {
-    "C:\\Projetos\\Pessoais\\DesignPattern\\InformationHiding\\InformationHiding.csproj": {
+    "C:\\Projetos\\Pessoais\\DesignPatternsC-\\InformationHiding\\InformationHiding.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projetos\\Pessoais\\DesignPattern\\InformationHiding\\InformationHiding.csproj",
+        "projectUniqueName": "C:\\Projetos\\Pessoais\\DesignPatternsC-\\InformationHiding\\InformationHiding.csproj",
         "projectName": "InformationHiding",
-        "projectPath": "C:\\Projetos\\Pessoais\\DesignPattern\\InformationHiding\\InformationHiding.csproj",
+        "projectPath": "C:\\Projetos\\Pessoais\\DesignPatternsC-\\InformationHiding\\InformationHiding.csproj",
         "packagesPath": "C:\\Users\\Mayardes Oliveira\\.nuget\\packages\\",
-        "outputPath": "C:\\Projetos\\Pessoais\\DesignPattern\\InformationHiding\\obj\\",
+        "outputPath": "C:\\Projetos\\Pessoais\\DesignPatternsC-\\InformationHiding\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Mayardes Oliveira\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -54,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
         }
       }
     }
