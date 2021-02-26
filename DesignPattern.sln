@@ -13,9 +13,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InformationHiding", "Inform
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AbstractClass", "AbstractClass\AbstractClass.csproj", "{1CECD098-B117-48A5-B3CE-D8CE3065C2E3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interfaces", "Interfaces\Interfaces.csproj", "{19F9E08D-D6D0-4C02-8AAB-7F8CFD2E9618}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Interfaces", "Interfaces\Interfaces.csproj", "{19F9E08D-D6D0-4C02-8AAB-7F8CFD2E9618}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Delegation", "Delegation\Delegation.csproj", "{C89690FD-A0B2-40AA-8056-9454CF3802B8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Delegation", "Delegation\Delegation.csproj", "{C89690FD-A0B2-40AA-8056-9454CF3802B8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3AbsctractFactory", "3AbsctractFactory\3AbsctractFactory.csproj", "{7D61D5E2-30D3-421A-81D4-2B39C6805752}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{C89690FD-A0B2-40AA-8056-9454CF3802B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C89690FD-A0B2-40AA-8056-9454CF3802B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C89690FD-A0B2-40AA-8056-9454CF3802B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D61D5E2-30D3-421A-81D4-2B39C6805752}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D61D5E2-30D3-421A-81D4-2B39C6805752}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D61D5E2-30D3-421A-81D4-2B39C6805752}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D61D5E2-30D3-421A-81D4-2B39C6805752}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,12 @@
+C:\Projetos\Pessoais\DesignPatternsC-\AbstractFactory\bin\Debug\netcoreapp3.1\AbstractFactory.exe
+C:\Projetos\Pessoais\DesignPatternsC-\AbstractFactory\bin\Debug\netcoreapp3.1\AbstractFactory.deps.json
+C:\Projetos\Pessoais\DesignPatternsC-\AbstractFactory\bin\Debug\netcoreapp3.1\AbstractFactory.runtimeconfig.json
+C:\Projetos\Pessoais\DesignPatternsC-\AbstractFactory\bin\Debug\netcoreapp3.1\AbstractFactory.runtimeconfig.dev.json
+C:\Projetos\Pessoais\DesignPatternsC-\AbstractFactory\bin\Debug\netcoreapp3.1\AbstractFactory.dll
+C:\Projetos\Pessoais\DesignPatternsC-\AbstractFactory\bin\Debug\netcoreapp3.1\AbstractFactory.pdb
+C:\Projetos\Pessoais\DesignPatternsC-\AbstractFactory\obj\Debug\netcoreapp3.1\AbstractFactory.AssemblyInfoInputs.cache
+C:\Projetos\Pessoais\DesignPatternsC-\AbstractFactory\obj\Debug\netcoreapp3.1\AbstractFactory.AssemblyInfo.cs
+C:\Projetos\Pessoais\DesignPatternsC-\AbstractFactory\obj\Debug\netcoreapp3.1\AbstractFactory.csproj.CoreCompileInputs.cache
+C:\Projetos\Pessoais\DesignPatternsC-\AbstractFactory\obj\Debug\netcoreapp3.1\AbstractFactory.dll
+C:\Projetos\Pessoais\DesignPatternsC-\AbstractFactory\obj\Debug\netcoreapp3.1\AbstractFactory.pdb
+C:\Projetos\Pessoais\DesignPatternsC-\AbstractFactory\obj\Debug\netcoreapp3.1\AbstractFactory.genruntimeconfig.cache

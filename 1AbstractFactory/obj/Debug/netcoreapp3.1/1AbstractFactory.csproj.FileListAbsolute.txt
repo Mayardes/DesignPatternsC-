@@ -1,0 +1,13 @@
+C:\Projetos\Pessoais\DesignPatternsC-\1AbstractFactory\bin\Debug\netcoreapp3.1\1AbstractFactory.exe
+C:\Projetos\Pessoais\DesignPatternsC-\1AbstractFactory\bin\Debug\netcoreapp3.1\1AbstractFactory.deps.json
+C:\Projetos\Pessoais\DesignPatternsC-\1AbstractFactory\bin\Debug\netcoreapp3.1\1AbstractFactory.runtimeconfig.json
+C:\Projetos\Pessoais\DesignPatternsC-\1AbstractFactory\bin\Debug\netcoreapp3.1\1AbstractFactory.runtimeconfig.dev.json
+C:\Projetos\Pessoais\DesignPatternsC-\1AbstractFactory\bin\Debug\netcoreapp3.1\1AbstractFactory.dll
+C:\Projetos\Pessoais\DesignPatternsC-\1AbstractFactory\bin\Debug\netcoreapp3.1\1AbstractFactory.pdb
+C:\Projetos\Pessoais\DesignPatternsC-\1AbstractFactory\obj\Debug\netcoreapp3.1\1AbstractFactory.csprojAssemblyReference.cache
+C:\Projetos\Pessoais\DesignPatternsC-\1AbstractFactory\obj\Debug\netcoreapp3.1\1AbstractFactory.AssemblyInfoInputs.cache
+C:\Projetos\Pessoais\DesignPatternsC-\1AbstractFactory\obj\Debug\netcoreapp3.1\1AbstractFactory.AssemblyInfo.cs
+C:\Projetos\Pessoais\DesignPatternsC-\1AbstractFactory\obj\Debug\netcoreapp3.1\1AbstractFactory.csproj.CoreCompileInputs.cache
+C:\Projetos\Pessoais\DesignPatternsC-\1AbstractFactory\obj\Debug\netcoreapp3.1\1AbstractFactory.dll
+C:\Projetos\Pessoais\DesignPatternsC-\1AbstractFactory\obj\Debug\netcoreapp3.1\1AbstractFactory.pdb
+C:\Projetos\Pessoais\DesignPatternsC-\1AbstractFactory\obj\Debug\netcoreapp3.1\1AbstractFactory.genruntimeconfig.cache

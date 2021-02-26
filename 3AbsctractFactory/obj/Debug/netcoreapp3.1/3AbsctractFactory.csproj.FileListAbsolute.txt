@@ -1,0 +1,13 @@
+C:\Projetos\Pessoais\DesignPatternsC-\3AbsctractFactory\bin\Debug\netcoreapp3.1\3AbsctractFactory.exe
+C:\Projetos\Pessoais\DesignPatternsC-\3AbsctractFactory\bin\Debug\netcoreapp3.1\3AbsctractFactory.deps.json
+C:\Projetos\Pessoais\DesignPatternsC-\3AbsctractFactory\bin\Debug\netcoreapp3.1\3AbsctractFactory.runtimeconfig.json
+C:\Projetos\Pessoais\DesignPatternsC-\3AbsctractFactory\bin\Debug\netcoreapp3.1\3AbsctractFactory.runtimeconfig.dev.json
+C:\Projetos\Pessoais\DesignPatternsC-\3AbsctractFactory\bin\Debug\netcoreapp3.1\3AbsctractFactory.dll
+C:\Projetos\Pessoais\DesignPatternsC-\3AbsctractFactory\bin\Debug\netcoreapp3.1\3AbsctractFactory.pdb
+C:\Projetos\Pessoais\DesignPatternsC-\3AbsctractFactory\obj\Debug\netcoreapp3.1\3AbsctractFactory.csprojAssemblyReference.cache
+C:\Projetos\Pessoais\DesignPatternsC-\3AbsctractFactory\obj\Debug\netcoreapp3.1\3AbsctractFactory.AssemblyInfoInputs.cache
+C:\Projetos\Pessoais\DesignPatternsC-\3AbsctractFactory\obj\Debug\netcoreapp3.1\3AbsctractFactory.AssemblyInfo.cs
+C:\Projetos\Pessoais\DesignPatternsC-\3AbsctractFactory\obj\Debug\netcoreapp3.1\3AbsctractFactory.csproj.CoreCompileInputs.cache
+C:\Projetos\Pessoais\DesignPatternsC-\3AbsctractFactory\obj\Debug\netcoreapp3.1\3AbsctractFactory.dll
+C:\Projetos\Pessoais\DesignPatternsC-\3AbsctractFactory\obj\Debug\netcoreapp3.1\3AbsctractFactory.pdb
+C:\Projetos\Pessoais\DesignPatternsC-\3AbsctractFactory\obj\Debug\netcoreapp3.1\3AbsctractFactory.genruntimeconfig.cache
